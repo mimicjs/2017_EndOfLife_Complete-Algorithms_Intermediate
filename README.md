@@ -1,6 +1,6 @@
 # Python3-2
 Less simple/basic program projects. Most are optimised for runtime. 
-(...and yes C++ is a faster language however at the expense on readability and coding time :shipit:) <br /><br />
+(...and yes C++ is a faster language however at the expense of readability and coding time :shipit:) <br /><br />
 ## Addition Multiplication Evaluation.py
 Evaluates expressions with only '*' and '+' such that the program obtains the largest possible result.
 Uses Dynamic Programming <br /><br />
