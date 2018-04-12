@@ -1,6 +1,6 @@
-# Python3-2
-Less simple/basic program projects. Most are optimised for runtime. <br />
-(...and yes C++ is a faster language however at the expense of readability and coding time :shipit:) <br /><br />
+# Algorithms written at a intemediate/graduate level
+All coded in Python3 with Notepad++ <br/>
+Assumes correct syntax <br/> <br />
 ## Addition Multiplication Evaluation.py
 Evaluates expressions with only '*' and '+' such that the program obtains the largest possible result. <br />
 Uses Dynamic Programming <br /><br />
