@@ -1,4 +1,4 @@
-# Algorithms written at an intemediate/graduate level
+# Algorithms written at an intermediate/graduate level
 All coded in Python3 with Notepad++ <br/>
 Assumes correct syntax <br/> <br />
 ## Addition Multiplication Evaluation.py
